@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="zhanghao_key">17677391684</string>
+    <string name="password_key">请输入密码</string>
+    <string name="yanzhengfangshi_key">切换验证方式</string>
+    <string name="login_key">登录</string>
+    <string name="findpassword_key">找回密码</string>
+    <string name="stop_key">紧急冻结</string>
+    <string name="more_key">更多</string>
+</resources>
